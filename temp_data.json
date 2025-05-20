@@ -1,0 +1,60 @@
+{
+  "user": {
+    "full_name": "TEJ JIVANI",
+    "email": "tejjivani000@gmail.com",
+    "phone": "+91-6353903235",
+    "address": null,
+    "linkedin_url": "https://www.linkedin.com/in/jivani-tej-051b18268",
+    "github_url": null,
+    "website_url": null
+  },
+  "education": [
+    {
+      "degree": "BACHELOR OF TECHNOLOGY",
+      "institution": "SILVER OAK UNIVERRSITY",
+      "field_of_study": "Information Technology",
+      "start_year": 2021,
+      "end_year": 2025,
+      "grade": null,
+      "description": "in progress."
+    },
+    {
+      "degree": "HSC",
+      "institution": "P.V.Modi School,Rajkot",
+      "field_of_study": null,
+      "start_year": 2020,
+      "end_year": 2021,
+      "grade": null,
+      "description": null
+    },
+    {
+      "degree": "SSC",
+      "institution": "Mahatma Gandhi School,Rajkot",
+      "field_of_study": null,
+      "start_year": 2018,
+      "end_year": 2019,
+      "grade": null,
+      "description": null
+    }
+  ],
+  "experience": [],
+  "skills": {
+    "skill_name": "English, Hindi, Gujrati, Photoshop, Illustrator, Lightroom, Da Vinci, Meta Suite, Analytics, Adaptability, Creativity, Communication Skill",
+    "proficiency_level": ""
+  },
+  "projects": [],
+  "certifications": [
+    {
+      "title": "UI/UX Designing",
+      "issuer": "Coursera",
+      "issue_date": null,
+      "description": null
+    },
+    {
+      "title": "Foundation Of Digital Marketing & E-Commerce",
+      "issuer": "Coursera",
+      "issue_date": null,
+      "description": null
+    }
+  ]
+}

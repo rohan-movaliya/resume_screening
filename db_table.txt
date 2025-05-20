@@ -1,0 +1,12 @@
+users : user_id, full_name, email, phone, address, linkedin_url, github_url, website_url, created_at
+
+education: education_id, user_id, degree, institution, field_of_study, start_year, end_year, grade, description
+
+experience: experience_id, user_id, job_title, company_name, location, start_date, end_date, currently_working, description
+
+skills: skill_id, user_id, skill_name, proficiency_level
+
+projects: project_id, user_id, project_title, description, technologies_used
+
+certifications:certification_id, user_id, title, issuer, issue_date, description
+
